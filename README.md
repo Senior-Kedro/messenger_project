@@ -12,9 +12,9 @@ messenger_project/
 │   └── main.py
 ├── server_app/
 │   └── main.py
+│   └── python_db.py
 ├── shared/
 │   └── config.py
-├── python_db.py
 └── README.md
 ```
 
